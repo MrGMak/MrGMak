@@ -9,6 +9,6 @@
 | Containers & Orchestration | <Docker<br/>Kubernetes<br/>|
 | Container Registries       | GitHub Container Registry<br/>GitLab Container Registry<br/>Docker Hub<br/>Harbor<br/> |
 | Cloud Providers            | Yandex Cloud<br/> 
-| Version Control & CI/CD    | GitHub<br/><br/>GitLab<br/> |
+| Version Control & CI/CD    | GitHub<br/>GitLab<br/> |
 | Development Tools          | Visual Studio Code<br/> |
 | Operating Systems          | Linux<br/>macOS<br/>Windows<br/>iOS<br/>Android<br/> |
