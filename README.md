@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+Hello everyone, I'm Makasim and I'm DevOps
 
 ## <img src="icons/fire.svg#gh-light-mode-only" width="20" height="20"><img src="icons/fire.svg#gh-dark-mode-only" width="20" height="20">&nbsp;&nbsp;Tech Stack
 
