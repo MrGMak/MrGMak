@@ -6,7 +6,7 @@
 |----------------------------|-------------------|
 | Languages                  | Python<br/>Bash<br> |
 | Infrastructure as Code     | Terraform<br/>Ansible<br/> |
-| Containers & Orchestration | <Docker<br/>Kubernetes<br/>|
+| Containers & Orchestration | Docker<br/>Kubernetes<br/>|
 | Container Registries       | GitHub Container Registry<br/>GitLab Container Registry<br/>Docker Hub<br/>Harbor<br/> |
 | Cloud Providers            | Yandex Cloud<br/> 
 | Version Control & CI/CD    | GitHub<br/>GitLab<br/> |
