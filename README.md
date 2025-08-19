@@ -4,7 +4,7 @@
 
 | Technology                 | Tools & Platforms |
 |----------------------------|-------------------|
-| Languages                  | <br/>Python<br/>Bash<br/> |
+| Languages                  | <br>Python<br/>Bash<br> |
 | Infrastructure as Code     | <br/>Terraform<br/>Ansible<br/> |
 | Containers & Orchestration | <br/>Docker<br/>Kubernetes<br/>|
 | Container Registries       | <br/>GitHub Container Registry<br/>GitLab Container Registry<br/>Docker Hub<br/>Harbor<br/> |
