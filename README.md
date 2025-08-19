@@ -4,11 +4,11 @@
 
 | Technology                 | Tools & Platforms |
 |----------------------------|-------------------|
-| Languages                  | <br>Python<br/>Bash<br> |
-| Infrastructure as Code     | <br>Terraform<br/>Ansible<br/> |
-| Containers & Orchestration | <br>Docker<br/>Kubernetes<br/>|
-| Container Registries       | <br>GitHub Container Registry<br/>GitLab Container Registry<br/>Docker Hub<br/>Harbor<br/> |
-| Cloud Providers            | <br>Yandex Cloud<br/> |
-| Version Control & CI/CD    | <br>GitHub<br/><br/>GitLab<br/> |
-| Development Tools          | <br>Visual Studio Code<br/> |
-| Operating Systems          | <br>Linux<br/>macOS<br/>Windows<br/>iOS<br/>Android<br/> |
+| Languages                  | Python<br/>Bash<br> |
+| Infrastructure as Code     | Terraform<br/>Ansible<br/> |
+| Containers & Orchestration | <Docker<br/>Kubernetes<br/>|
+| Container Registries       | GitHub Container Registry<br/>GitLab Container Registry<br/>Docker Hub<br/>Harbor<br/> |
+| Cloud Providers            | Yandex Cloud<br/> 
+| Version Control & CI/CD    | GitHub<br/><br/>GitLab<br/> |
+| Development Tools          | Visual Studio Code<br/> |
+| Operating Systems          | Linux<br/>macOS<br/>Windows<br/>iOS<br/>Android<br/> |
